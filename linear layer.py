@@ -1,5 +1,7 @@
 import torch
 
+# linear layers
+
 class TinyModel(torch.nn.Module):
 
     def __init__(self):
